@@ -30,7 +30,7 @@ STATUS_LIMIT = 10
 STATUS_UPDATE_INTERVAL = 15
 DEFAULT_UPLOAD = "rc"  # "rc" | "gd" | "ddl"
 INCOMPLETE_TASK_NOTIFIER = False
-EXCLUDED_EXTENSIONS = ""
+EXCLUDED_EXTENSIONS = "nfo exe txt"
 
 # Bot behavior
 BOT_PM = False
