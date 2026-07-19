@@ -5,7 +5,7 @@
 # UPSTREAM_REPO, UPSTREAM_BRANCH, AUTO_UPDATE and UPDATE_PKGS may also be set via env vars.
 
 # REQUIRED
-BOT_TOKEN = "5073917997:AAGY7IMLpWtnwegA7hsgFdMiATgJIeQY4Qg"
+BOT_TOKEN = "5022314090:AAE0kGdRavkXzg-YmxxDWCpTObhN5S8Cir0"
 OWNER_ID = 680745190
 TELEGRAM_API = 2175637
 TELEGRAM_HASH = "3768f77fa58f2ac3ab5e72f7bfa6df34"
@@ -158,7 +158,7 @@ DEBRID_LINK_API = ""
 REAL_DEBRID_API = ""
 
 # Web UI / qBittorrent / Aria2c
-BASE_URL = "https://krishcchat-testNew.hf.space/"  # public URL of this bot's web frontend
+BASE_URL = "https://tvuser9-MySpace.hf.space/"  # public URL of this bot's web frontend
 BASE_URL_PORT = 7860
 WEB_PINCODE = True
 TORRENT_TIMEOUT = 0
@@ -192,7 +192,7 @@ SEARCH_PLUGINS = [
 ]
 
 # Self-update
-UPSTREAM_REPO = "https://github.com/rachelhasbigtits69/N-WZ"
+UPSTREAM_REPO = "https://github.com/rachelhasbigtits69/N-WZL1"
 UPSTREAM_BRANCH = "master"
 AUTO_UPDATE = True
 UPDATE_PKGS = False
