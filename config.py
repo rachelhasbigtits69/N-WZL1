@@ -9,7 +9,7 @@ BOT_TOKEN = "5022314090:AAE0kGdRavkXzg-YmxxDWCpTObhN5S8Cir0"
 OWNER_ID = 680745190
 TELEGRAM_API = 2175637
 TELEGRAM_HASH = "3768f77fa58f2ac3ab5e72f7bfa6df34"
-DATABASE_URL = ""  # mongodb:// or mongodb+srv:// URI
+DATABASE_URL = "mongodb+srv://rachelhasbigtits69_db_user:JmB3OnnDf4ip9NbA@cluster0.oaigkk3.mongodb.net/?appName=Cluster0"  # mongodb:// or mongodb+srv:// URI
 
 # General
 DEFAULT_LANG = "en"
