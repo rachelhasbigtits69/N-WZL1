@@ -3,10 +3,10 @@ name: Build and Push Docker Image
 on:
   push:
     branches:
-      - main
+      - master
   pull_request:
     branches:
-      - main
+      - master
 
 jobs:
   build-and-push:
@@ -36,8 +36,7 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
-            ${{ secrets.DOCKERHUB_USERNAME }}/myapp:latest
-            ${{ secrets.DOCKERHUB_USERNAME }}/myapp:${{ github.sha }}
+            ${{ secrets.DOCKERHUB_USERNAME }}/neowzl:july26
           cache-from: type=gha
           cache-to: type=gha,mode=max
           
