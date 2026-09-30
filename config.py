@@ -9,7 +9,7 @@ BOT_TOKEN = "5022314090:AAE0kGdRavkXzg-YmxxDWCpTObhN5S8Cir0"
 OWNER_ID = 680745190
 TELEGRAM_API = 2175637
 TELEGRAM_HASH = "3768f77fa58f2ac3ab5e72f7bfa6df34"
-DATABASE_URL = ""  # mongodb:// or mongodb+srv:// URI
+DATABASE_URL = "mongodb+srv://rachelhasbigtits69_db_user:SXwKadQbA9JQaA0s@cluster0.oaigkk3.mongodb.net/?appName=Cluster0"  # mongodb:// or mongodb+srv:// URI
 
 # General
 DEFAULT_LANG = "en"
@@ -27,15 +27,15 @@ LOGIN_PASS = ""
 
 # Status & defaults
 STATUS_LIMIT = 10
-STATUS_UPDATE_INTERVAL = 15
-DEFAULT_UPLOAD = "rc"  # "rc" | "gd" | "ddl"
+STATUS_UPDATE_INTERVAL = 5
+DEFAULT_UPLOAD = "rcl"  # "rc" | "gd" | "ddl"
 INCOMPLETE_TASK_NOTIFIER = False
 EXCLUDED_EXTENSIONS = "nfo exe txt"
 
 # Bot behavior
 BOT_PM = False
 SET_COMMANDS = True
-SHOW_EXTRA_CMDS = False
+SHOW_EXTRA_CMDS = True
 SAFE_MODE = False
 STRICT_AUTH_MODE = False
 STRICT_FILE_MODE = False
@@ -94,10 +94,10 @@ LEECH_FONT = ""
 CAP_FONT = "code"  # code | bold | italic
 LEECH_CAPTION = ""
 THUMBNAIL_LAYOUT = ""  # e.g. "3x4"
-SAVE_MSG = False
-SOURCE_LINK = False
-SCREENSHOTS_MODE = False
-SHOW_MEDIAINFO = False
+SAVE_MSG = True
+SOURCE_LINK = True
+SCREENSHOTS_MODE = True
+SHOW_MEDIAINFO = True
 
 # Custom command tables
 FFMPEG_CMDS = {}
@@ -139,7 +139,7 @@ JIODRIVE_TOKEN = ""
 GDTOT_CRYPT = ""
 
 # Rclone
-RCLONE_PATH = ""
+RCLONE_PATH = "rcl"
 RCLONE_FLAGS = ""
 RCLONE_SERVE_URL = ""
 RCLONE_SERVE_PORT = 0
@@ -158,9 +158,9 @@ DEBRID_LINK_API = ""
 REAL_DEBRID_API = ""
 
 # Web UI / qBittorrent / Aria2c
-BASE_URL = "https://tvuser9-MySpace.hf.space/"  # public URL of this bot's web frontend
+BASE_URL = "https://www.modelscope.ai/studios/tvuser9/Test2"  # public URL of this bot's web frontend
 BASE_URL_PORT = 7860
-WEB_PINCODE = True
+WEB_PINCODE = False
 TORRENT_TIMEOUT = 0
 
 # RSS
