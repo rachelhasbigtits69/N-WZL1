@@ -19,7 +19,7 @@ CMD_SUFFIX = ""
 TIMEZONE = "UTC"
 
 # Authorization
-AUTHORIZED_CHATS = ""  # space-separated chat ids; empty = all
+AUTHORIZED_CHATS = "-1003419294094"  # space-separated chat ids; empty = all
 EXCEP_CHATS = ""
 SUDO_USERS = ""
 FORCE_SUB_IDS = ""
@@ -165,7 +165,7 @@ TORRENT_TIMEOUT = 0
 
 # RSS
 RSS_DELAY = 600
-RSS_CHAT = ""
+RSS_CHAT = "-1003419294094"
 RSS_SIZE_LIMIT = 0
 
 # Torrent search
