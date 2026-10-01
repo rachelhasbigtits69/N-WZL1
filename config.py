@@ -158,7 +158,7 @@ DEBRID_LINK_API = ""
 REAL_DEBRID_API = ""
 
 # Web UI / qBittorrent / Aria2c
-BASE_URL = "https://www.modelscope.ai/studios/tvuser9/Test2"  # public URL of this bot's web frontend
+BASE_URL = "https://tvuser9-test2.ms.fun"  # public URL of this bot's web frontend
 BASE_URL_PORT = 7860
 WEB_PINCODE = False
 TORRENT_TIMEOUT = 0
